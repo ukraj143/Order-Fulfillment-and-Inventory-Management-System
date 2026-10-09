@@ -41,4 +41,8 @@ uploads/*
 # Build
 build/
 dist/
-*.egg-info/
+*.egg-info/.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
